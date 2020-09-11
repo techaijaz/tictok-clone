@@ -1,0 +1,19 @@
+.videoSidebar {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  color: white;
+}
+
+.videoSidebar_button {
+  margin-bottom: 25px;
+  text-align: center;
+}
+.videoSidebar_message {
+  margin-bottom: 25px;
+  text-align: center;
+}
+.videoSidebar_share {
+  margin-bottom: 25px;
+  text-align: center;
+}
